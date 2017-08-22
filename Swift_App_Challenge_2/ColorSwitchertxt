@@ -1,0 +1,32 @@
+
+
+***Goal***
+
+The goal of this exercise is to show you the use of the following
+
+- Creating IBActions
+- Changing the background color of views
+- Switching between ViewControllers
+- Setting up your TableView functions 
+- Using TableViewCells
+
+
+***Assignment***
+
+First assignment - Create a simple ViewController with 4 buttons. When the user taps on a button, it will switch to a specific color of your choice.
+
+Second assignment - Create a simple ViewController with a UITableView. Change the colors of each cell with different colors of your choice in code. (Do not use change the colors of the cell inside the storyboard)
+
+Third assignment - Create a simple ViewController with 2 buttons for the user to select to access assignment one and assignment two.
+
+
+***NOTE***
+
+- Don't forget the back buttons!
+- Each ViewControllers has their own Swift files
+- To change the background color, do (self.view.backgroundColor = UIColor.yourColorChoice)
+- Don't forget to set your cell identifier
+- Make sure your variables are descriptive
+- Don't worry about errors until you are done writing your line of code
+
+If you run into any problems, take note of the problem, what do you think is causing the problem, and what steps did you take to try and solve the problem.
