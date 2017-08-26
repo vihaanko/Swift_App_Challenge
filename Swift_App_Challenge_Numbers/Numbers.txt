@@ -1,0 +1,10 @@
+
+***Goal***
+
+The goal of this assignment is to get you familiar with TableViews, passing data between views, adding target actions to buttons, and programmatically switching between viewcontrollers.
+
+
+***Assignment***
+
+Create a simple iOS App with an initial view controller, and 3 separate table view controllers. 1 table view controller will display all prime numbers, 1 table view controller will display all even numbers, and 1 table view controller will display the fibonacci series. The initial view controller will have 2 textfields that will accept the range of numbers you want to test and print to a tableview and 3 buttons that will direct present a specific tableview.
+
